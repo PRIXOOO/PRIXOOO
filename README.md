@@ -1,0 +1,78 @@
+<h1 align="center">👋 Salut, moi c'est Walid Kebbache</h1>
+
+<p align="center">
+  🎓 Étudiant L3 MIAGE @ Université Paris Nanterre &nbsp;|&nbsp;
+  📍 Le Blanc-Mesnil, France &nbsp;|&nbsp;
+  🔍 En recherche d'alternance 12 mois
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/walid-kebbache/">
+    <img src="https://img.shields.io/badge/LinkedIn-Walid%20Kebbache-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:walid.kebbache.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-walid.kebbache.pro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧠 À propos de moi
+
+Passionné par l'IA, le développement logiciel et la résolution de problèmes complexes, je suis actuellement en L3 MIAGE à Paris Nanterre après une classe préparatoire (CPGE) en mathématiques avancées. Je construis des projets concrets qui mêlent **machine learning**, **LLM** et **développement full-stack**.
+
+---
+
+## 🚀 Projets phares
+
+### 🤖 [CAPTCHA-IA](https://github.com/PRIXOOO/CAPTCHA-IA)
+> CAPTCHA comportemental full-stack — détection humain vs bot via mouvements de souris + classification hybride (Random Forest + LLM Gemini)
+
+**Stack :** `Python` `FastAPI` `TypeScript` `Random Forest` `Gemini API`
+
+---
+
+### 🌊 [Nuit de l'Info 2025](https://github.com/PRIXOOO/Nuit-info-projet)
+> Chatbot conversationnel développé en équipe de 4 en ~24h lors de la Nuit de l'Info. Intègre un LLM local (Gemma 3 1B) pour des réponses rapides sans cloud.
+
+**Stack :** `TypeScript` `Python` `Node.js` `Gemma 3` `HTML/CSS`
+
+---
+
+### 🛠️ [Hyvers](https://github.com/PRIXOOO/Hyvers)
+> Outil JavaFX pour générer et configurer des serveurs Hytale en quelques clics, sans toucher aux fichiers JSON manuellement.
+
+**Stack :** `Java` `JavaFX`
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2FC%23-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+---
+
+## 🌍 Langues
+
+| Langue | Niveau |
+|--------|--------|
+| 🇫🇷 Français | C2 — Natif |
+| 🇬🇧 Anglais | C1 — Avancé |
+| 🇮🇹 Italien | B2 — Intermédiaire |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PRIXOOO&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRIXOOO&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
