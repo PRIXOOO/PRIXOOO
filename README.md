@@ -73,6 +73,6 @@ Passionné par l'IA, le développement logiciel et la résolution de problèmes 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-ten-xi-67.vercel.app/api?username=PRIXOOO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats-ten-xi-67.vercel.app/api?username=PRIXOOO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" height="150"/>
   <img src="https://github-readme-stats-ten-xi-67.vercel.app/api/top-langs/?username=PRIXOOO&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150"/>
 </p>
