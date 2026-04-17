@@ -114,8 +114,8 @@ Passionate about AI, software development, and solving complex problems, I am cu
 | Langue | Level |
 |--------|--------|
 | 🇫🇷 Français | C2 — Native |
-| 🇬🇧 Anglais | C1 — Advanced |
-| 🇮🇹 Italien | B2 — Intermediate |
+| 🇬🇧 English | C1 — Advanced |
+| 🇮🇹 Italiano | B2 — Intermediate |
 
 ---
 
