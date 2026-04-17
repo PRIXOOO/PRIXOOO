@@ -1,3 +1,16 @@
+<p align="center">
+  <a href="#français">
+    <img src="https://img.shields.io/badge/Langue-Français-blue?style=for-the-badge">
+  </a>
+  <a href="#english">
+    <img src="https://img.shields.io/badge/Language-English-red?style=for-the-badge">
+  </a>
+</p>
+
+---
+
+<div id="français">
+
 <h1 align="center">👋 Salut, moi c'est Walid Kebbache</h1>
 
 <p align="center">
@@ -15,41 +28,72 @@
   </a>
 </p>
 
----
-
 ## 🧠 À propos de moi
-
 Passionné par l'IA, le développement logiciel et la résolution de problèmes complexes, je suis actuellement en L3 MIAGE à Paris Nanterre après une classe préparatoire (CPGE) en mathématiques avancées. Je construis des projets concrets qui mêlent **machine learning**, **LLM** et **développement full-stack**.
-
----
 
 ## 🚀 Projets phares
 
 ### 🤖 [CAPTCHA-IA](https://github.com/PRIXOOO/CAPTCHA-IA)
 > CAPTCHA comportemental full-stack — détection humain vs bot via mouvements de souris + classification hybride (Random Forest + LLM Gemini)
-
 **Stack :** `Python` `FastAPI` `TypeScript` `Random Forest` `Gemini API`
 
----
+### 📻 [Radio Occitania](https://github.com/PRIXOOO/RADIOOCCITANIA-)
+> Plateforme de gestion de flux radio — capture du direct, système d'inscription, enregistrement et téléchargement d'extraits audio avec fonction "timeshift". Développé en parallèle du défi Viveris lors de la Nuit de l'Info.
+**Stack :** `TypeScript` `Python` `WebStream API` `HTML/CSS`
 
 ### 🌊 [Nuit de l'Info 2025](https://github.com/PRIXOOO/Nuit-info-projet)
-> Chatbot conversationnel développé en équipe de 4 en ~24h lors de la Nuit de l'Info. Intègre un LLM local (Gemma 3 1B) pour des réponses rapides sans cloud.
-
-**Stack :** `TypeScript` `Python` `Node.js` `Gemma 3` `HTML/CSS`
-
----
+> Chatbot conversationnel (Gemma 3 1B local) développé en équipe de 4 en ~24h.
+**Stack :** `TypeScript` `Python` `Node.js` `Gemma 3`
 
 ### 🛠️ [Hyvers](https://github.com/PRIXOOO/Hyvers)
-> Outil JavaFX pour générer et configurer des serveurs Hytale en quelques clics, sans toucher aux fichiers JSON manuellement.
-
+> Outil JavaFX pour générer et configurer des serveurs Hytale.
 **Stack :** `Java` `JavaFX`
+
+</div>
 
 ---
 
-### 📻 [Radio Occitania](https://github.com/PRIXOOO/RADIOOCCITANIA-)
-> Plateforme de gestion de flux radio — capture du direct, système d'inscription, enregistrement et téléchargement d'extraits audio avec fonction "timeshift" (retour en arrière). Développé en parallèle du défi Viveris lors de la Nuit de l'Info.
+<div id="english">
 
-**Stack :** `TypeScript` `HTML/CSS` `JS`
+<h1 align="center">👋 Hi, I'm Walid Kebbache</h1>
+
+<p align="center">
+  🎓 L3 MIAGE Student @ Paris Nanterre University &nbsp;|&nbsp;
+  📍 Le Blanc-Mesnil, France &nbsp;|&nbsp;
+  🔍 Seeking a 12-month apprenticeship
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/walid-kebbache/">
+    <img src="https://img.shields.io/badge/LinkedIn-Walid%20Kebbache-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:walid.kebbache.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-walid.kebbache.pro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+## 🧠 About Me
+Passionate about AI, software development, and solving complex problems, I am currently an L3 MIAGE student at Paris Nanterre following a preparatory class (CPGE) in advanced mathematics. I build concrete projects combining **machine learning**, **LLMs**, and **full-stack development**.
+
+## 🚀 Key Projects
+
+### 🤖 [CAPTCHA-IA](https://github.com/PRIXOOO/CAPTCHA-IA)
+> Full-stack behavioral CAPTCHA — human vs. bot detection via mouse movements + hybrid classification (Random Forest + Gemini LLM).
+**Stack:** `Python` `FastAPI` `TypeScript` `Random Forest` `Gemini API`
+
+### 📻 [Radio Occitania](https://github.com/PRIXOOO/RADIOOCCITANIA-)
+> Radio stream management platform — live stream capture, registration system, audio recording, and downloads with "timeshift" functionality. Developed alongside the Viveris challenge during the Nuit de l'Info.
+**Stack:** `TypeScript` `Python` `WebStream API` `HTML/CSS`
+
+### 🌊 [Nuit de l'Info 2025](https://github.com/PRIXOOO/Nuit-info-projet)
+> Conversational chatbot (local Gemma 3 1B) developed in a team of 4 in ~24h.
+**Stack:** `TypeScript` `Python` `Node.js` `Gemma 3`
+
+### 🛠️ [Hyvers](https://github.com/PRIXOOO/Hyvers)
+> JavaFX tool to generate and configure Hytale servers effortlessly.
+**Stack:** `Java` `JavaFX`
+
+</div>
 
 ---
 
@@ -67,13 +111,13 @@ Passionné par l'IA, le développement logiciel et la résolution de problèmes 
 
 ---
 
-## 🌍 Langues
+## 🌍 Langues / Languages
 
-| Langue | Niveau |
+| Langue | Level |
 |--------|--------|
-| 🇫🇷 Français | C2 — Natif |
-| 🇬🇧 Anglais | C1 — Avancé |
-| 🇮🇹 Italien | B2 — Intermédiaire |
+| 🇫🇷 Français | C2 — Native |
+| 🇬🇧 Anglais | C1 — Advanced |
+| 🇮🇹 Italien | B2 — Intermediate |
 
 ---
 
