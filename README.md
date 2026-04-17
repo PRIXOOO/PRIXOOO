@@ -32,6 +32,13 @@ Passionné par l'IA, le développement logiciel et la résolution de problèmes 
 
 ---
 
+### 📻 [Radio Occitania](https://github.com/PRIXOOO/RADIOOCCITANIA-)
+> Plateforme de gestion de flux radio — capture du direct, système d'inscription, enregistrement et téléchargement d'extraits audio avec fonction "timeshift" (retour en arrière). Développé en parallèle du défi Viveris lors de la Nuit de l'Info.
+
+**Stack :** `TypeScript` `Python` `WebStream API` `HTML/CSS`
+
+---
+
 ### 🌊 [Nuit de l'Info 2025](https://github.com/PRIXOOO/Nuit-info-projet)
 > Chatbot conversationnel développé en équipe de 4 en ~24h lors de la Nuit de l'Info. Intègre un LLM local (Gemma 3 1B) pour des réponses rapides sans cloud.
 
