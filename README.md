@@ -37,10 +37,6 @@ Passionné par l'IA, le développement logiciel et la résolution de problèmes 
 > CAPTCHA comportemental full-stack — détection humain vs bot via mouvements de souris + classification hybride (Random Forest + LLM Gemini)
 **Stack :** `Python` `FastAPI` `TypeScript` `Random Forest` `Gemini API`
 
-### 📻 [Radio Occitania](https://github.com/PRIXOOO/RADIOOCCITANIA-)
-> Plateforme de gestion de flux radio — capture du direct, système d'inscription, enregistrement et téléchargement d'extraits audio avec fonction "timeshift". Développé en parallèle du défi Viveris lors de la Nuit de l'Info.
-**Stack :** `TypeScript` `Python` `WebStream API` `HTML/CSS`
-
 ### 🌊 [Nuit de l'Info 2025](https://github.com/PRIXOOO/Nuit-info-projet)
 > Chatbot conversationnel (Gemma 3 1B local) développé en équipe de 4 en ~24h.
 **Stack :** `TypeScript` `Python` `Node.js` `Gemma 3`
@@ -49,6 +45,9 @@ Passionné par l'IA, le développement logiciel et la résolution de problèmes 
 > Outil JavaFX pour générer et configurer des serveurs Hytale.
 **Stack :** `Java` `JavaFX`
 
+### 📻 [Radio Occitania](https://github.com/PRIXOOO/RADIOOCCITANIA-)
+> Plateforme de gestion de flux radio — capture du direct, système d'inscription, enregistrement et téléchargement d'extraits audio avec fonction "timeshift". Développé en parallèle du défi Viveris lors de la Nuit de l'Info.
+**Stack :** `TypeScript` `Python` `WebStream API` `HTML/CSS`
 </div>
 
 ---
@@ -81,10 +80,6 @@ Passionate about AI, software development, and solving complex problems, I am cu
 > Full-stack behavioral CAPTCHA — human vs. bot detection via mouse movements + hybrid classification (Random Forest + Gemini LLM).
 **Stack:** `Python` `FastAPI` `TypeScript` `Random Forest` `Gemini API`
 
-### 📻 [Radio Occitania](https://github.com/PRIXOOO/RADIOOCCITANIA-)
-> Radio stream management platform — live stream capture, registration system, audio recording, and downloads with "timeshift" functionality. Developed alongside the Viveris challenge during the Nuit de l'Info.
-**Stack:** `TypeScript` `Python` `WebStream API` `HTML/CSS`
-
 ### 🌊 [Nuit de l'Info 2025](https://github.com/PRIXOOO/Nuit-info-projet)
 > Conversational chatbot (local Gemma 3 1B) developed in a team of 4 in ~24h.
 **Stack:** `TypeScript` `Python` `Node.js` `Gemma 3`
@@ -93,6 +88,9 @@ Passionate about AI, software development, and solving complex problems, I am cu
 > JavaFX tool to generate and configure Hytale servers effortlessly.
 **Stack:** `Java` `JavaFX`
 
+### 📻 [Radio Occitania](https://github.com/PRIXOOO/RADIOOCCITANIA-)
+> Radio stream management platform — live stream capture, registration system, audio recording, and downloads with "timeshift" functionality. Developed alongside the Viveris challenge during the Nuit de l'Info.
+**Stack:** `TypeScript` `Python` `WebStream API` `HTML/CSS`
 </div>
 
 ---
