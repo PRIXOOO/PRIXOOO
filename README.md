@@ -47,7 +47,7 @@ Passionné par l'IA, le développement logiciel et la résolution de problèmes 
 
 ### 📻 [Radio Occitania](https://github.com/PRIXOOO/RADIOOCCITANIA-)
 > Plateforme de gestion de flux radio — capture du direct, système d'inscription, enregistrement et téléchargement d'extraits audio avec fonction "timeshift". Développé en parallèle du défi Viveris lors de la Nuit de l'Info.
-**Stack :** `TypeScript` `Python` `WebStream API` `HTML/CSS`
+**Stack :** `TypeScript` `JS` `HTML/CSS`
 </div>
 
 ---
@@ -90,7 +90,7 @@ Passionate about AI, software development, and solving complex problems, I am cu
 
 ### 📻 [Radio Occitania](https://github.com/PRIXOOO/RADIOOCCITANIA-)
 > Radio stream management platform — live stream capture, registration system, audio recording, and downloads with "timeshift" functionality. Developed alongside the Viveris challenge during the Nuit de l'Info.
-**Stack:** `TypeScript` `Python` `WebStream API` `HTML/CSS`
+**Stack:** `TypeScript` `JS` `HTML/CSS`
 </div>
 
 ---
