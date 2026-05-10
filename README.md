@@ -78,7 +78,7 @@ Passionate about AI, software development, and solving complex problems, I am cu
 
 ### 🤖 [CAPTCHA-IA](https://github.com/PRIXOOO/CAPTCHA-IA)
 > Full-stack behavioral CAPTCHA — human vs. bot detection via mouse movements + hybrid classification (Random Forest + Gemini LLM).
-**Stack:** `Python` `FastAPI` `TypeScript` `Random Forest` `Gemini API`
+**Stack:** `Python` `FastAPI` `TypeScript` `Random Forest` `Gemini API` `Tkinter`
 
 ### 🌊 [Nuit de l'Info 2025](https://github.com/PRIXOOO/Nuit-info-projet)
 > Conversational chatbot (local Gemma 3 1B) developed in a team of 4 in ~24h.
