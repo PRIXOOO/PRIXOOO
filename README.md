@@ -38,7 +38,7 @@ Passionné par l'IA, le développement logiciel et la résolution de problèmes 
 **Stack :** `Python` `FastAPI` `TypeScript` `Random Forest` `Gemini API` `Tkinter` `numPy` `Pandas` `opencv2` `sklearn`
 
 ### 🌊 [Nuit de l'Info 2025](https://github.com/PRIXOOO/Nuit-info-projet)
-> Chatbot conversationnel (Gemma 3 1B local) développé en équipe de 4 en ~24h.
+> Chatbot conversationnel (Gemma 3 1B local) développé en équipe de 4 en 8h.
 **Stack :** `TypeScript` `Python` `Node.js` `Gemma 3`
 
 ### 🛠️ [Hyvers](https://github.com/PRIXOOO/Hyvers)
@@ -81,7 +81,7 @@ Passionate about AI, software development, and solving complex problems, I am cu
 **Stack:** `Python` `FastAPI` `TypeScript` `Random Forest` `Gemini API` `Tkinter` `numPy` `Pandas` `opencv2` `sklearn`
 
 ### 🌊 [Nuit de l'Info 2025](https://github.com/PRIXOOO/Nuit-info-projet)
-> Conversational chatbot (local Gemma 3 1B) developed in a team of 4 in ~24h.
+> Conversational chatbot (local Gemma 3 1B) developed in a team of 4 in 8h.
 **Stack:** `TypeScript` `Python` `Node.js` `Gemma 3`
 
 ### 🛠️ [Hyvers](https://github.com/PRIXOOO/Hyvers)
